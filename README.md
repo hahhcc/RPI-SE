@@ -1,6 +1,6 @@
 # RPI-SE
 
-we proposed an ensemble learning framework to predict ncRNA-Protein interactions using PSSM with TruncatedSVD for protein sequences and k-mer sparse matrix with SVD for (non-coding)RNA sequences, named RPI-SE, which made use of high-level evolutionary information and further improve its performance using stacked ensembling.
+we proposed an ensemble learning framework to predict ncRNA-Protein interactions using PSSM with legendre moments and TruncatedSVD for protein sequences and k-mer sparse matrix with SVD for (non-coding)RNA sequences, named RPI-SE, which made use of high-level evolutionary information and further improve its performance using stacked ensembling.
 
 Dependency: 
 python 3.5
