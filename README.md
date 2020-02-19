@@ -13,4 +13,4 @@ python RPI-SE.py -datatype=RPI369
 Where RPI369 is RNA-protein interaction dataset, and RPI-SE will do 5-fold cross-validation for it. you can also choose other datasets, such as RPI488, RPI1807.  
 
 ## Reference:  
-Not available.
+Yi, H., You, Z., Wang, M. et al. RPI-SE: a stacking ensemble learning framework for ncRNA-protein interactions prediction using sequence information. BMC Bioinformatics 21, 60 (2020).
